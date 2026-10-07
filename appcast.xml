@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/anhtran110501/SoundOS-releases/main/appcast.xml</link>
     <description>SoundOS updates</description>
     <language>en</language>
+    <item>
+      <title>SoundOS 1.0.0</title>
+      <pubDate>Wed, 07 Oct 2026 10:58:28 +0700</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First public release</li></ul>]]></description>
+      <enclosure url="https://github.com/anhtran110501/SoundOS-releases/releases/download/v1.0.0/SoundOS-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="E3CdJBJdkoYl8JwdDE5UAKu+tOW9xORS4xcX6qXXX2bHf0rfk6oNhlOwO8DS7vk6zFCS+FpOjJjeyMWp1iBvDg==" length="23087959" />
+    </item>
   </channel>
 </rss>
