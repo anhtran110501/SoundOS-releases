@@ -6,6 +6,15 @@
     <description>SoundOS updates</description>
     <language>en</language>
     <item>
+      <title>SoundOS 1.0.1</title>
+      <pubDate>Thu, 08 Oct 2026 10:08:53 +0700</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Equalizer for each output device: click Output in the menu, or use the Studio Mixer</li><li>Option to use SoundOS&#x27;s volume keys and HUD for every output (Settings › Volume Keys)</li><li>Output group sliders now set each output&#x27;s own volume</li><li>Fixed: output groups below 100% played only on one output</li></ul>]]></description>
+      <enclosure url="https://github.com/anhtran110501/SoundOS-releases/releases/download/v1.0.1/SoundOS-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="bKEZ4eUyGOorLQHP8X77kDfwgfftlWD0rHSwfp/LsxDoi+sUoShyawaZSD9KNpCwPgb3t9b+g+3uK0qNq6wyAw==" length="23127630" />
+    </item>
+    <item>
       <title>SoundOS 1.0.0</title>
       <pubDate>Wed, 07 Oct 2026 10:58:28 +0700</pubDate>
       <sparkle:version>1</sparkle:version>
