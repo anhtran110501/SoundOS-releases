@@ -6,6 +6,15 @@
     <description>SoundOS updates</description>
     <language>en</language>
     <item>
+      <title>SoundOS 1.0.3</title>
+      <pubDate>Thu, 08 Oct 2026 17:01:21 +0700</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Volume HUD: the level bar spans the whole capsule, whatever the device name</li><li>The HUD no longer covers the SoundOS popover while it is open</li></ul>]]></description>
+      <enclosure url="https://github.com/anhtran110501/SoundOS-releases/releases/download/v1.0.3/SoundOS-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="JtlKp8gbaGknMGfG6eU3qTJxCsLh9WPdeQ68LJIxw1/KSWMU38kg6GE4Q6XZimlznOWYx2QcYrZXPQnKL6d2CA==" length="23128077" />
+    </item>
+    <item>
       <title>SoundOS 1.0.2</title>
       <pubDate>Thu, 08 Oct 2026 12:42:14 +0700</pubDate>
       <sparkle:version>3</sparkle:version>
